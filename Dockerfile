@@ -1,1 +1,1 @@
-FROM alpi
+FROM alpine
