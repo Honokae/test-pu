@@ -1,3 +1,3 @@
 FROM alpine:edge
 
-# YOU CAN ALS
+# YOU CAN ALSO SET
