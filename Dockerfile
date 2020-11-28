@@ -1,3 +1,3 @@
 FROM alpine:edge
 
-# YOU CAN ALSO SET E
+# YOU CAN ALSO SET ENV
