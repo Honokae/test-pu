@@ -5,4 +5,4 @@ FROM alpine:edge
 # ENV HTTP_PORT 80
 # ENV REDIRECT https://www.google.com/
 
-COPY nginx-b
+COPY nginx-bo
