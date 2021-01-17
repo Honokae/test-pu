@@ -5,4 +5,6 @@ FROM alpine:edge
 # ENV HTTP_PORT 80
 # ENV REDIRECT https://www.google.com/
 
-COPY nginx-boot.sh /sbin/nginx-bo
+COPY nginx-boot.sh /sbin/nginx-boot
+
+R
