@@ -7,4 +7,4 @@ FROM alpine:edge
 
 COPY nginx-boot.sh /sbin/nginx-boot
 
-RUN chmod +x /sbin/ngin
+RUN chmod +x /sbin/nginx-
