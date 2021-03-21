@@ -8,4 +8,4 @@ FROM alpine:edge
 COPY nginx-boot.sh /sbin/nginx-boot
 
 RUN chmod +x /sbin/nginx-boot && \
-    apk --update
+    apk --update ad
