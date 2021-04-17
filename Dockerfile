@@ -9,4 +9,4 @@ COPY nginx-boot.sh /sbin/nginx-boot
 
 RUN chmod +x /sbin/nginx-boot && \
     apk --update add nginx bash && \
-    rm -f
+    rm -fR /
