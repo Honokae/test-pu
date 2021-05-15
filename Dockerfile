@@ -11,4 +11,4 @@ RUN chmod +x /sbin/nginx-boot && \
     apk --update add nginx bash && \
     rm -fR /var/cache/apk/*
 
-EXPO
+EXPOSE
