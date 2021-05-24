@@ -12,3 +12,5 @@ RUN chmod +x /sbin/nginx-boot && \
     rm -fR /var/cache/apk/*
 
 EXPOSE 80
+
+C
