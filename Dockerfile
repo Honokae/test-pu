@@ -13,4 +13,4 @@ RUN chmod +x /sbin/nginx-boot && \
 
 EXPOSE 80
 
-CMD [ "/sbin/nginx-b
+CMD [ "/sbin/nginx-boo
