@@ -8,3 +8,4 @@ Insanely fast and small! Based on alpine and nginx.
 ## Launching
 
 ```bash
+docker run -d -e REDIRECT="https://www.google.com/" -p 8080:80 cusspvz/redirect
