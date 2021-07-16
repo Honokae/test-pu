@@ -10,3 +10,5 @@ Insanely fast and small! Based on alpine and nginx.
 ```bash
 docker run -d -e REDIRECT="https://www.google.com/" -p 8080:80 cusspvz/redirect
 ```
+
+Now you should be able to browse to `http://localhost:8080/any/path` and
