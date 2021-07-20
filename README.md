@@ -17,3 +17,5 @@ have your browser redirected to `https://www.google.com/any/path`.
 ## Environment variables
 
 Adjust Dockerfile to override the defaults
+
+| Variable                | Description                                                         | Default         | Values                                                      |
