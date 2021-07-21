@@ -19,3 +19,9 @@ have your browser redirected to `https://www.google.com/any/path`.
 Adjust Dockerfile to override the defaults
 
 | Variable                | Description                                                         | Default         | Values                                                      |
+| ----------------------- | ------------------------------------------------------------------- | --------------- | ----------------------------------------------------------- |
+| HSTS                    | Toggles Https Strict Transport Security when it is NON ZERO         | `0`             |                                                             |
+| HSTS_INCLUDE_SUBDOMAINS | In case HSTS is on, this toggles the subdomains when it is NON ZERO | `0`             |                                                             |
+| HSTS_MAX_AGE            |                                                                     | `-31536000`     |                                                             |
+| WORKER_CONNECTIONS      |                                                                     | `1024`          |                                                             |
+| HTTP_PORT               |                                                                     | `80`            |                                                             |
