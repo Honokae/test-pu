@@ -25,3 +25,5 @@ Adjust Dockerfile to override the defaults
 | HSTS_MAX_AGE            |                                                                     | `-31536000`     |                                                             |
 | WORKER_CONNECTIONS      |                                                                     | `1024`          |                                                             |
 | HTTP_PORT               |                                                                     | `80`            |                                                             |
+| REDIRECT                |                                                                     | `https://$host` |                                                             |
+| REDIRECT_TYPE           |                                                                     | `permanent`     | `redirect` (302 redirection), `permanent` (301 redirection) |
