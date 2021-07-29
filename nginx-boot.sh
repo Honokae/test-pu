@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# Check f
+# Check for
