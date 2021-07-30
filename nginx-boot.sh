@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# Check for v
+# Check for vari
