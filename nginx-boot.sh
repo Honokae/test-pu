@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# Check for vari
+# Check for variab
