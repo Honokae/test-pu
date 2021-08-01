@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# Check for variab
+# Check for variabl
