@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# Check for variabl
+# Check for variables
