@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Check for variables
-exp
+expor
