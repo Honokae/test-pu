@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Check for variables
-export WORKE
+export WORKER_C
