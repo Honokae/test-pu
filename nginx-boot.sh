@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Check for variables
-export WORKER_CONNECTIONS=${WORKE
+export WORKER_CONNECTIONS=${WORKER
