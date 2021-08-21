@@ -2,4 +2,4 @@
 
 # Check for variables
 export WORKER_CONNECTIONS=${WORKER_CONNECTIONS:-1024}
-export HTT
+export HTTP_
