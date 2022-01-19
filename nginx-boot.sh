@@ -7,4 +7,4 @@ export REDIRECT=${REDIRECT:-https\:\/\/\$host}
 export REDIRECT_TYPE=${REDIRECT_TYPE:-permanent}
 export NGINX_CONF=/etc/nginx/mushed.conf
 export HSTS=${HSTS:-0}
-export HSTS_MAX_AGE=${HST
+export HSTS_MAX_AGE=${HSTS_M
