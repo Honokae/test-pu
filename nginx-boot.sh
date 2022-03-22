@@ -11,4 +11,4 @@ export HSTS_MAX_AGE=${HSTS_MAX_AGE:-31536000}
 export HSTS_INCLUDE_SUBDOMAINS=${HSTS_INCLUDE_SUBDOMAINS:-0}
 
 # Build config
-cat <<E
+cat <<EOF 
