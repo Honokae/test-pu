@@ -12,4 +12,4 @@ export HSTS_INCLUDE_SUBDOMAINS=${HSTS_INCLUDE_SUBDOMAINS:-0}
 
 # Build config
 cat <<EOF > $NGINX_CONF
-us
+user ro
