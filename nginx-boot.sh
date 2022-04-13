@@ -15,4 +15,4 @@ cat <<EOF > $NGINX_CONF
 user root;
 daemon off;
 
-event
+events 
