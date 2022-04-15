@@ -16,3 +16,4 @@ user root;
 daemon off;
 
 events {
+ 
