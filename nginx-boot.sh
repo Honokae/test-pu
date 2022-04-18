@@ -16,4 +16,4 @@ user root;
 daemon off;
 
 events {
-    worke
+    worker_
