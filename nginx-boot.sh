@@ -16,4 +16,4 @@ user root;
 daemon off;
 
 events {
-    worker_con
+    worker_conne
