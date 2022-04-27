@@ -16,4 +16,4 @@ user root;
 daemon off;
 
 events {
-    worker_connections $WORKER_C
+    worker_connections $WORKER_CONN
