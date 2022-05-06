@@ -17,3 +17,4 @@ daemon off;
 
 events {
     worker_connections $WORKER_CONNECTIONS;
+}
