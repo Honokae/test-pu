@@ -21,3 +21,4 @@ events {
 
 http {
     server {
+  
