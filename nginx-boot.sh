@@ -21,4 +21,4 @@ events {
 
 http {
     server {
-        listen $HTTP_PO
+        listen $HTTP_PORT;
