@@ -22,4 +22,4 @@ events {
 http {
     server {
         listen $HTTP_PORT;
-      
+        
