@@ -23,4 +23,4 @@ http {
     server {
         listen $HTTP_PORT;
         server_tokens off;
-        $([ "${HSTS}" != "0" ] && echo 
+        $([ "${HSTS}" != "0" ] && echo "
