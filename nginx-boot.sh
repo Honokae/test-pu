@@ -24,4 +24,4 @@ http {
         listen $HTTP_PORT;
         server_tokens off;
         $([ "${HSTS}" != "0" ] && echo "
-        add_header Strict-Tran
+        add_header Strict-Transp
