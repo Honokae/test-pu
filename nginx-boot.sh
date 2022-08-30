@@ -24,4 +24,4 @@ http {
         listen $HTTP_PORT;
         server_tokens off;
         $([ "${HSTS}" != "0" ] && echo "
-        add_header Strict-Transport-Security \"max-ag
+        add_header Strict-Transport-Security \"max-age=
