@@ -25,4 +25,4 @@ http {
         server_tokens off;
         $([ "${HSTS}" != "0" ] && echo "
         add_header Strict-Transport-Security \"max-age=${HSTS_MAX_AGE};$([ "${HSTS_INCLUDE_SUBDOMAINS}" != "0" ] && echo "includeSubDomains")\";
-        
+        "
