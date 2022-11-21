@@ -29,3 +29,4 @@ http {
         rewrite ^(.*) $REDIRECT\$1 $REDIRECT_TYPE;
     }
 }
+
