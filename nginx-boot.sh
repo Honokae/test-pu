@@ -32,4 +32,4 @@ http {
 
 EOF
 
-c
+cat
