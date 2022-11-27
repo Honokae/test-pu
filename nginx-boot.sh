@@ -32,4 +32,4 @@ http {
 
 EOF
 
-cat $
+cat $NG
