@@ -32,4 +32,4 @@ http {
 
 EOF
 
-cat $NGINX_CO
+cat $NGINX_CONF
