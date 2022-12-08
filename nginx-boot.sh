@@ -34,4 +34,4 @@ EOF
 
 cat $NGINX_CONF;
 
-cho
+chow
