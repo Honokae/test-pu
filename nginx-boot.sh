@@ -33,3 +33,5 @@ http {
 EOF
 
 cat $NGINX_CONF;
+
+c
