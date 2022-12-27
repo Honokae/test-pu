@@ -34,4 +34,4 @@ EOF
 
 cat $NGINX_CONF;
 
-chown -R root:root /
+chown -R root:root /var
