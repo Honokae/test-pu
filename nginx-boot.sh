@@ -34,4 +34,4 @@ EOF
 
 cat $NGINX_CONF;
 
-chown -R root:root /var/lib/ng
+chown -R root:root /var/lib/nginx
