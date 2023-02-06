@@ -35,4 +35,4 @@ EOF
 cat $NGINX_CONF;
 
 chown -R root:root /var/lib/nginx;
-mkdir -p /r
+mkdir -p /run/
